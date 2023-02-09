@@ -1,7 +1,7 @@
 .notion-header {
     position: fixed !important;
     height: 100vh !important;
-    width: 50vw !important;
+    width: 30vw !important;
     bottom: 0 !important;
     margin: 0 !important;
     left: 0 !important;
@@ -16,7 +16,7 @@
 .super-content {
     position: absolute !important;
     padding: 120px !important;
-    width: 50vw !important;
+    width: 70vw !important;
     margin: 0 !important;
     right: 0 !important;
     top: 0 !important;
